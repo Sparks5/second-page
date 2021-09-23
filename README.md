@@ -1,1 +1,13 @@
-# second-page
+<html>
+  <head>
+    <title>My favorite place and my favorite movie
+    </title>
+   <br> <img src="images/update_hosts_cached.vdf"style="width:500px;height:400px;">
+  </head>
+  <style>
+    body{color:#9797d1;background-color:#e68983; margin-left 20%; margin-right 20%; border: dotted black
+    </style>
+    <body>
+      <p>My home makes me feel safe and thorugh this it is my favorite place. I' not going to talk about my favorite movie, since i dont have one. Back to the favorite place. I like my home a lot it makes me feel comphy and it nurtures me from a old feeling of a place that i love and a place that everyone comes back to.
+  </body>
+</html>
